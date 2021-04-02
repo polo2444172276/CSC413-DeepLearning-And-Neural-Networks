@@ -1,7 +1,7 @@
 # CSC413
 University of Toronto's CSC413: Deep Learning and Neural Network Course. 
 
-I am taking this course in 2021 Winter with prof Jimmy Ba and Bo Wang. There are 4 programming assignments, 4 math assignments, and a final project(also a midterm). It introduces a broad range of deep learning topics(CNN, RNN, GAN etc.) and moreover, some state-of-the-art models (BERT, Style2-GAN etc). As a fourth-year course, it is quite demanding, yet very interesting and makes me learn so much. The course material and assignments are structured well. I really recommend it. 
+I am taking this course in 2021 Winter with prof Jimmy Ba and Bo Wang. There are 4 programming assignments, 4 math assignments, and a final project(also a midterm). It introduces a broad range of deep learning topics(CNN, RNN, GAN etc.) and moreover, some state-of-the-art models (BERT, Style2-GAN etc). As a fourth-year course, it is quite demanding, yet very interesting and makes me learn so much. I really recommend it. 
 
 ## Course webpage:
 https://csc413-uoft.github.io/2021/  (May be deactivated in the future)
