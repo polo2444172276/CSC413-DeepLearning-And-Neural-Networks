@@ -10,15 +10,21 @@ https://csc413-uoft.github.io/2021/  (May be deactivated in the future)
 
 ## Programming Assignments:
 PA1: Word Embedding with GloVE, Masked Language Modelling
+
 PA2: Convolutional Neural Networks for Image Classification
+
 PA3: Attention-Based Neural Machine Translation: LSTM, Additive Attention, Scaled Dot Product Attention
+
 PA4: Deep Convolutional GAN (DCGAN), StyleGAN2-Ada, Deep Q-Learning Network (DQN)
 
 
 ## Math Assignments:
 MA1: Hard-Coding Networks, BackPropagation, Linear Regression
+
 MA2: Optimization, Gradient-based Hyper-parameter Optimization, Convolutional Neural Networks
+
 MA3: Robustness and Regularization, Trading off Resources in Neural Network Training, Dropout as Gaussian Noise
+
 MA4: Recurrent Neural Network and Self-attention, Reversible Models and Variational AutoEncoders, Reinforcement Learning
 
 ## Final Project: 
