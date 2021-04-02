@@ -12,8 +12,7 @@ https://csc413-uoft.github.io/2021/  (May be deactivated in the future)
 1. 
 
 ## Math Assignments:
-### MA1
-Hard-Coding Networks, BackPropagation, Linear Regression
+MA1: Hard-Coding Networks, BackPropagation, Linear Regression
 ### MA2
 Optimization, Gradient-based Hyper-parameter Optimization, Convolutional Neural Networks
 ### MA3
