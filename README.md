@@ -3,10 +3,8 @@ University of Toronto's CSC413: Deep Learning and Neural Network Course.
 
 I took this course in 2021 Winter with prof Jimmy Ba and Bo Wang. There were 4 programming assignments, 4 math assignments, and a final project(also a midterm). It introduced a broad range of deep learning topics(CNN, RNN, GAN etc.) and moreover, some state-of-the-art models (BERT, Style2-GAN etc). As a fourth-year course, it was quite demanding, yet very interesting and makde me learn so much. I really recommend it. 
 
-## Course webpage:
-https://csc413-uoft.github.io/2021/  (May be deactivated in the future)
-
-
+## Final Project: 
+We evaluated two text classification methodologies, Simple Graph Convolution (SGC) and Neural Attentive Bag-of-Entities(NABoE), by performing hyperparameter sensitivity analysis, extending to a new dataset, and experimenting with the model architechtures. The final report was written in NeurIPS format. 
 
 ## Programming Assignments(Python, Pytorch):
 PA1: Word Embedding with GloVE, Masked Language Modelling
@@ -27,6 +25,6 @@ MA3: Robustness and Regularization, Trading off Resources in Neural Network Trai
 
 MA4: Recurrent Neural Network(RNN) and Self-attention, Reversible Models and Variational AutoEncoders(VAE), Reinforcement Learning
 
-## Final Project: 
+## Course webpage:
+https://csc413-uoft.github.io/2021/  (May be deactivated in the future)
 
-We evaluated two text classification methodologies, Simple Graph Convolution (SGC) and Neural Attentive Bag-of-Entities(NABoE), by performing hyperparameter sensitivity analysis, extending to a new dataset, and experimenting with the model architechtures. The final report was written in NeurIPS format. 
