@@ -29,4 +29,4 @@ MA4: Recurrent Neural Network(RNN) and Self-attention, Reversible Models and Var
 
 ## Final Project: 
 
-Still ongoing.
+I partnered with two other teammates. We evaluated two text classification methodologies, Simple Graph Convolution (SGC) and Neural Attentive Bag-of-Entities(NABoE), by performing hyperparameter sensitivity analysis, extending to a new dataset, and experimenting with the model architechtures. The final report was written in NeurIPS format. 
